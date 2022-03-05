@@ -5,7 +5,7 @@ import './Project.css'
 function Project() {
   return (
     <div>
-        <img alt='project'/>
+        <img alt='SVG or img goes here - neil'/>
         <h2>Title</h2> 
         <p>
             Descriptsion <br/>
